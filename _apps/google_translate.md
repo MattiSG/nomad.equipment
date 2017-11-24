@@ -1,0 +1,195 @@
+---
+name: Google Translate
+categories: language
+countries:
+  - af
+  - al
+  - dz
+  - ad
+  - ao
+  - ag
+  - ar
+  - am
+  - az
+  - bh
+  - bd
+  - bb
+  - by
+  - bz
+  - bj
+  - bo
+  - ba
+  - bw
+  - br
+  - bn
+  - bg
+  - bf
+  - bi
+  - kh
+  - cm
+  - cv
+  - cf
+  - td
+  - cl
+  - co
+  - km
+  - cr
+  - hr
+  - cu
+  - cy
+  - cz
+  - cd
+  - dk
+  - dj
+  - dm
+  - do
+  - tl
+  - ec
+  - eg
+  - sv
+  - gq
+  - er
+  - ee
+  - et
+  - fo
+  - fj
+  - fi
+  - ga
+  - ge
+  - de
+  - gh
+  - gr
+  - gd
+  - gt
+  - gn
+  - gw
+  - gy
+  - ht
+  - hn
+  - hk
+  - is
+  - in
+  - id
+  - ir
+  - iq
+  - it
+  - ci
+  - jm
+  - jp
+  - je
+  - jo
+  - kz
+  - ke
+  - ki
+  - xk
+  - kw
+  - kg
+  - la
+  - lv
+  - lb
+  - ls
+  - lr
+  - ly
+  - li
+  - lt
+  - lu
+  - mg
+  - mw
+  - my
+  - ml
+  - mt
+  - mh
+  - mr
+  - mu
+  - mx
+  - md
+  - mc
+  - mn
+  - me
+  - ma
+  - mz
+  - na
+  - nr
+  - np
+  - nl
+  - ni
+  - ne
+  - ng
+  - kp
+  - om
+  - pk
+  - pw
+  - pa
+  - pg
+  - py
+  - pe
+  - ph
+  - pl
+  - pt
+  - pr
+  - qa
+  - ro
+  - rw
+  - kn
+  - lc
+  - vc
+  - ws
+  - sm
+  - sa
+  - sn
+  - rs
+  - sc
+  - sl
+  - sg
+  - sx
+  - sk
+  - si
+  - sb
+  - so
+  - za
+  - kr
+  - ss
+  - lk
+  - sd
+  - sr
+  - sz
+  - se
+  - sy
+  - tj
+  - tz
+  - th
+  - tg
+  - to
+  - tt
+  - tn
+  - tr
+  - tv
+  - ug
+  - ua
+  - ae
+  - gb
+  - uy
+  - uz
+  - vu
+  - ve
+  - vn
+  - eh
+  - ye
+  - zm
+  - zw
+needs_additional_download: cache
+price: 0
+---
+
+Written, oral and camera translation.
+
+## Setup
+
+1. Open the app.
+2. Select the languages you want to translate to and from.
+3. “Star” some translations to have them offline.
+
+## Limitations
+
+- It is often better to select English as one of the languages, as translations are usually better to and from it.
+- Speech and picture (or camera)-based transcriptions are [not supported for all languages](https://translate.google.com/intl/en/about/languages/).
