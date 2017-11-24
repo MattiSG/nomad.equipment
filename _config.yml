@@ -1,0 +1,20 @@
+# Site settings
+title: Nomad Equipment
+email: contact@nomad.equipment
+description: "Best gear for digital nomads and travellers."
+baseurl: ""
+url: "http://nomad.equipment"
+twitter_username: matti_sg
+github_username:  MattiSG
+
+collections:
+  apps:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""  # means "all files"
+      type: "apps" # targets a collection
+    values:
+      layout: "post"

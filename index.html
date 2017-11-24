@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h1>Apps</h1>
+
+<ul>
+	{% for app in site.apps %}
+		<li>
+			<a href="{{ app.url | prepend: site.baseurl }}">{{ app.name }}</a>
+		</li>
+	{% endfor %}
+</ul>
