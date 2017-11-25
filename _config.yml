@@ -5,7 +5,6 @@ description: "Best gear for digital nomads and travellers."
 baseurl: ""
 url: "http://nomad.equipment"
 twitter_username: matti_sg
-github_username:  MattiSG
 
 collections:
   app:
@@ -17,4 +16,4 @@ defaults:
       path: ""  # means "all files"
       type: "app" # targets a collection
     values:
-      layout: "post"
+      layout: "app"
