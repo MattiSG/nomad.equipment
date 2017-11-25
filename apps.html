@@ -8,6 +8,8 @@ layout: default
 <div class="app">
 	<h2>{{ app.name }}</h2>
 
+	<p>{{ app.description }}</p>
+
 	<a href="{{ app.url | prepend: site.baseurl }}">Instructions and limitations</a>
 </div>
 {% endfor %}
