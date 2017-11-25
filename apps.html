@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h1>Apps</h1>
+
+{% for app in site.app %}
+<div class="app">
+	<h2>{{ app.name }}</h2>
+
+	<a href="{{ app.url | prepend: site.baseurl }}">Instructions and limitations</a>
+</div>
+{% endfor %}

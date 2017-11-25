@@ -8,13 +8,13 @@ twitter_username: matti_sg
 github_username:  MattiSG
 
 collections:
-  apps:
+  app:
     output: true
 
 defaults:
   -
     scope:
       path: ""  # means "all files"
-      type: "apps" # targets a collection
+      type: "app" # targets a collection
     values:
       layout: "post"

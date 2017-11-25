@@ -3,9 +3,8 @@ name: Currencies
 categories: money
 countries: all
 price: 1
+description: Convert currencies.
 ---
-
-Convert currencies.
 
 ## Setup
 

@@ -5,9 +5,8 @@ countries: all
 needs_additional_download: 5MB
 based_in: fr
 price: 0
+description: Conditions de visa et zones dangereuses officielles du ministère des affaires étrangères.
 ---
-
-Conditions de visa et zones dangereuses officielles du ministère des affaires étrangères.
 
 ## Setup
 

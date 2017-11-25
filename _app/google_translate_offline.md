@@ -168,9 +168,8 @@ countries:
   - zw
 needs_additional_download: 40MB
 price: 0
+description: Written, oral and camera offline translation.
 ---
-
-Written, oral and camera offline translation.
 
 ## Setup
 

@@ -4,9 +4,8 @@ categories: internet
 countries: all
 needs_additional_download: 5MB
 price: 6
+description: Prevent wasting bandwidth on ads and trackers.
 ---
-
-Prevent wasting bandwidth on ads and trackers.
 
 ## Setup
 

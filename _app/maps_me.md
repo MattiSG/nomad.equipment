@@ -4,9 +4,8 @@ categories: maps
 countries: all
 needs_additional_download: 200MB
 price: 0
+description: Offline maps with search and directions, based on OpenStreetMap data.
 ---
-
-Offline maps with search and directions, based on OpenStreetMap data.
 
 ## Setup
 

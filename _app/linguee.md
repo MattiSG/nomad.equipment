@@ -119,9 +119,8 @@ countries:
   - zw
 needs_additional_download: 140MB
 price: 0
+description: Translate precise words.
 ---
-
-Translate precise words.
 
 ## Setup
 

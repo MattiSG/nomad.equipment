@@ -179,9 +179,8 @@ countries:
   - zw
 needs_additional_download: cache
 price: 0
+description: Written, oral and camera translation.
 ---
-
-Written, oral and camera translation.
 
 ## Setup
 

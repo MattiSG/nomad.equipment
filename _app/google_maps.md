@@ -1,7 +1,7 @@
 ---
-name: Google Maps (offline)
+name: Google Maps
 categories: maps
-countries:  # all but China, Japan, Korean peninsula
+countries:  # all but China
   - ad
   - ae
   - af
@@ -114,12 +114,15 @@ countries:  # all but China, Japan, Korean peninsula
   - je
   - jm
   - jo
+  - jp
   - ke
   - kg
   - kh
   - ki
   - km
   - kn
+  - kp
+  - kr
   - kw
   - ky
   - kz
@@ -247,22 +250,7 @@ countries:  # all but China, Japan, Korean peninsula
   - za
   - zm
   - zw
-needs_additional_download: 200MB
+needs_additional_download: cache
 price: 0
+description: Maps, satellite tiles and directions.
 ---
-
-Offline searchable maps.
-
-
-## Setup
-
-1. Create a Google Account.
-2. Open app.
-3. Login with your Google Account.
-4. In the menu, tap “Offline maps”.
-5. Select the zones you want to download.
-
-## Limitations
-
-- Offline maps are only valid for 30 days.
-- Satellite tiles are not available offline.

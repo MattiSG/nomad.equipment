@@ -4,9 +4,8 @@ categories: transportation
 countries: all
 needs_additional_download: 0.5MB
 price: 0
+description: Offline public transportation directions.
 ---
-
-Offline public transportation directions.
 
 ## Setup
 

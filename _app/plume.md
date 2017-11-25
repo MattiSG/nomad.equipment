@@ -3,9 +3,8 @@ name: Plume
 categories: environment
 countries: all
 price: 0
+description: Atmospheric pollution forecasts and alerts.
 ---
-
-Atmospheric pollution forecasts and alerts.
 
 ## Setup
 

@@ -3,11 +3,9 @@ name: Find my iPhone
 categories: safety
 countries: all
 price: 0
-os: ios
-url: 'https://itunes.apple.com/us/app/id376101648'
+itunes_id: 376101648
+description: Find and remote lock Apple devices.
 ---
-
-Find and remote lock Apple devices.
 
 ## Setup
 

@@ -38,9 +38,8 @@ countries:
   # listed countries from cities until "Izmir"
 needs_additional_download: 40MB
 price: 0
+description: Beautifully curated offline city guides.
 ---
-
-Beautifully curated offline city guides.
 
 ## Setup
 
