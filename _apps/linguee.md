@@ -1,0 +1,130 @@
+---
+name: Linguee
+categories: language
+countries:
+  - ao
+  - ag
+  - ar
+  - bb
+  - by
+  - bz
+  - bj
+  - bo
+  - bw
+  - br
+  - bf
+  - bi
+  - cm
+  - cv
+  - cf
+  - td
+  - cl
+  - co
+  - km
+  - cr
+  - hr
+  - cu
+  - cd
+  - dj
+  - dm
+  - do
+  - tl
+  - ec
+  - sv
+  - gq
+  - er
+  - fj
+  - ga
+  - de
+  - gh
+  - gd
+  - gt
+  - gn
+  - gw
+  - gy
+  - ht
+  - hn
+  - hk
+  - in
+  - it
+  - ci
+  - jm
+  - je
+  - kz
+  - ke
+  - ki
+  - kg
+  - ls
+  - lr
+  - li
+  - lu
+  - mg
+  - mw
+  - my
+  - ml
+  - mt
+  - mh
+  - mu
+  - mx
+  - mc
+  - mz
+  - na
+  - nr
+  - nl
+  - ni
+  - ne
+  - ng
+  - pk
+  - pl
+  - pw
+  - pa
+  - pg
+  - py
+  - pe
+  - ph
+  - pt
+  - pr
+  - rw
+  - kn
+  - lc
+  - vc
+  - ws
+  - sm
+  - sn
+  - sc
+  - sl
+  - sg
+  - sx
+  - si
+  - sb
+  - za
+  - ss
+  - lk
+  - sd
+  - sr
+  - sz
+  - tj
+  - tz
+  - tg
+  - to
+  - tt
+  - tv
+  - ug
+  - gb
+  - uy
+  - vu
+  - ve
+  - eh
+  - zm
+  - zw
+needs_additional_download: 140MB
+price: 0
+---
+
+Translate precise words.
+
+## Setup
+
+1. Open app.
+2. Tap the language codes on the top right.
+3. Install dictionaries.
