@@ -9,6 +9,12 @@ additional_css: apps
 <div class="app">
 	<h2>{{ app.name }}</h2>
 
+	<ul class="categories">
+	{% for category in app.categories %}
+		<li>{{ category }}</li>
+	{% endfor %}
+	</ul>
+
 	<p>{{ app.description }}</p>
 
 	<a href="{{ app.url | prepend: site.baseurl }}">Instructions and limitations</a>

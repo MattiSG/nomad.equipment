@@ -12,3 +12,20 @@
 	float: right;
 	font-size: 90%;
 }
+
+.app .categories {
+	list-style-type: none;
+	display: inline;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+.app .categories li {
+	display: inline-block;
+	color: #333;
+	background-color: #DDD;
+	border-radius: .3em;
+	font-size: 80%;
+	padding: .2em .5em;
+	margin-right: .5em;
+}
