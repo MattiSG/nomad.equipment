@@ -1,6 +1,8 @@
 ---
 name: CoChange
-categories: poi money
+categories:
+  - money
+  - poi
 countries: all
 needs_additional_download: cache
 price: 0

@@ -1,6 +1,8 @@
 ---
 name: Pocket
-categories: internet content
+categories:
+  - internet
+  - content
 countries: all
 price: 0
 description: Save textual internet content for offline viewing.

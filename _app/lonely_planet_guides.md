@@ -1,6 +1,8 @@
 ---
 name: Lonely Planet Guides
-categories: guides maps
+categories:
+  - guides
+  - maps
 countries:
   - at
   - au

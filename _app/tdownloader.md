@@ -1,6 +1,8 @@
 ---
 name: TDownloader
-categories: internet content
+categories:
+  - internet
+  - content
 countries: all
 price: 4
 description: Save streaming video and audio for offline viewing.

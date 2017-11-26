@@ -1,6 +1,8 @@
 ---
 name: Google Maps
-categories: maps
+categories:
+  - maps
+  - transportation
 countries:  # all but China
   - ad
   - ae

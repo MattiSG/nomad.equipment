@@ -1,6 +1,8 @@
 ---
 name: 'Maps.me'
-categories: maps
+categories:
+  - maps
+  - transportation
 countries: all
 needs_additional_download: 200MB
 price: 0
