@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+<p>{{ site.description }}</p>
+<nav>
+	{% for page in site.pages %}
+		{% if page.title %}<a href="{{ page.url | prepend: site.baseurl }}"><h2>{{ page.title }}</h2></a>{% endif %}
+	{% endfor %}
+</nav>
