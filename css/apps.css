@@ -1,0 +1,14 @@
+.app {
+	clear: both;
+	padding-bottom: 1em;
+	border-bottom: 1px solid #DDD;
+}
+
+.app p {
+	display: inline;
+}
+
+.app a {
+	float: right;
+	font-size: 90%;
+}
